@@ -1,0 +1,24 @@
+p, ul {
+  font-size: 21px;
+  text-align: justify;
+}
+
+img {
+  width: 20%;
+  display: block;
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+section {
+  width: 80%;
+  margin: 0 auto;
+}
+
+a {
+  font-size: 120%;
+  text-decoration: none;
+}
